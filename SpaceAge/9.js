@@ -1,7 +1,7 @@
 
 let count = 0;
 const targetClicks = 9; 
-const redirectPage = 'SpaceAge/9.html'; 
+const redirectPage = 'https://caclne.github.io/site/SpaceAge/9.html'; 
 
 const externalButton = document.getElementById('externalButton');
 const clickCountSpan = document.getElementById('clickCount');

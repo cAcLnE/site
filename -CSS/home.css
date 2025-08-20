@@ -34,12 +34,12 @@ a:hover {
     color: #030303;
 }
 
-foot {
+.foot {
     margin: 5px;
     font-size: .8em;
 }
 
-externalButton {
+.externalButton {
   background-color: #030303;
   color: #00ff00;
   padding: 12px 25px;

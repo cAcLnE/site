@@ -45,7 +45,9 @@ externalButton {
     padding: 12px 25px;
     border: none;
     cursor: pointer;
-    outline: none;
+    border: transparent;
+    outline: transparent;
+    box-shadow: 0 0 0 2px #00ff00;
 }
 
 externalButton:hover {

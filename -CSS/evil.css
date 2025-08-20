@@ -1,0 +1,62 @@
+body {
+    background-color: #030303;
+    color: #D10000;
+    font-family: 'Courier New', Courier, monospace;
+    margin: 0;
+    padding: 0;
+    height: 100vh;
+}
+
+
+p, h1, h3 {
+    margin: 5px;
+    padding: 0;
+    padding-left: 10px;
+}
+
+h1 {
+    padding-top: 10px;
+}
+
+hr {
+    width: 80%;
+    border: 1px solid #D10000;
+    margin-left: 15px;
+}
+
+a {
+    color: #D10000;
+}
+
+a:hover {
+    text-decoration: none;
+    background-color: #D10000;
+    color: #030303;
+}
+
+foot {
+    margin: 5px;
+    font-size: .8em;
+}
+
+externalButton {
+    background-color: #030303;
+    color: #D10000;
+    padding: 12px 25px;
+    border: none;
+    cursor: pointer;
+    border: transparent;
+    outline: transparent;
+    box-shadow: 0 0 0 2px #D10000;
+}
+
+externalButton:hover {
+    background-color: #D10000;
+    color: #030303;
+}
+
+externalButton:focus {
+    background-color: #030303;
+    color: #D10000;
+}
+    

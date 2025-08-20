@@ -1,5 +1,5 @@
 let count = 0;
-const targetClicks = 10; 
+const targetClicks = 1972; 
 const redirectPage = 'https://caclne.github.io/site/SpaceAge/1972.html'; 
 
 const externalButton = document.getElementById('externalButton');

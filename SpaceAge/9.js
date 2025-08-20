@@ -1,7 +1,7 @@
 
 let count = 0;
 const targetClicks = 9; 
-const redirectPage = '9.html'; 
+const redirectPage = 'SpaceAge/9.html'; 
 
 const externalButton = document.getElementById('externalButton');
 const clickCountSpan = document.getElementById('clickCount');

@@ -1,5 +1,5 @@
 
-let clickCount = 0;
+let count = 0;
 const targetClicks = 9; 
 const redirectPage = "9.html"; 
 

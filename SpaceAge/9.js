@@ -11,6 +11,6 @@ externalButton.addEventListener('click', () => {
     clickCountSpan.textContent = count;
 
     if (count >= targetClicks) {
-        window.location.href = 9.html;
+        window.location.href = redirectPage;
     }
 });

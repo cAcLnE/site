@@ -40,9 +40,21 @@ foot {
 }
 
 externalButton {
-  background-color: #030303;
-  color: #00ff00;
-  padding: 12px 25px;
-  border: none;
-  cursor: pointer;
+    background-color: #030303;
+    color: #00ff00;
+    padding: 12px 25px;
+    border: none;
+    cursor: pointer;
+    outline: none;
 }
+
+externalButton:hover {
+    background-color: #00ff00;
+    color: #030303;
+}
+
+externalButton:focus {
+    background-color: #030303;
+    color: #D10000;
+}
+    
